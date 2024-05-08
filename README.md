@@ -1,3 +1,3 @@
 # Testing  file
 
-Hello frends, I'm crearing my firts repository uwu
+Hello frends, I'm creating my first repository uwu
